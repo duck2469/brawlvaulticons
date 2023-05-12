@@ -1,2 +1,1 @@
-# brawlvaulticons
-a repository for brawl lvault icons so i can reupload it
+A repository for brawl vault icons so i can reupload it
